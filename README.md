@@ -225,26 +225,28 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-![image](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/090599e4-2346-487a-8727-61e06104c4ea)
+![image](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/42f4fa96-3bff-474c-ba59-24e8411f3a40)
+
 
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/b935dead-eb63-4f86-a472-f4034620b175)
+![Screenshot 2024-05-10 223931](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/6095f488-4f8c-47a8-a20f-85a3681c6373)
 
 ### Classification Report
 
-![image](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/6993b322-0eab-4ab6-af5a-1a51fad397f3)
+![Screenshot 2024-05-10 224155](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/1ace7a51-4baa-4f33-8691-e9db0beea86f)
+
 
 ### Confusion Matrix
+![Screenshot 2024-05-10 224021](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/95c9f5d9-3864-4679-925b-8cd508cd7bc1)
 
-![image](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/f63b5597-150e-4db8-99bf-6639a3898c0c)
 
 
 ### New Sample Data Prediction
+![Screenshot 2024-05-10 224242](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/8d7ccfd9-5db5-4dee-9f53-6461b90d5daa)
 
-![image](https://github.com/DEVADARSHAN2/nn-classification/assets/119432150/13a4d2b8-7c60-4a1d-a9fb-12ccb3e58291)
 
 ## RESULT
 Thus a neural network classification model is developed for the given dataset.
